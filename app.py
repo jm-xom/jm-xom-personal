@@ -1,3 +1,6 @@
+import time
+
+
 while (1):
   print("Hello world")
-  sleep(60)
+  time.sleep(60)
